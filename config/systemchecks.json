@@ -9,7 +9,7 @@
         },
         {
             "key": "SecureBootDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": ""
@@ -22,13 +22,13 @@
         },
         {
             "key": "MemoryIntegrityDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": false
         },
         {
             "key": "DriverBlocklistDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         },
@@ -47,7 +47,7 @@
         },
         {
             "key": "RiotVanguardInactive",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         }
