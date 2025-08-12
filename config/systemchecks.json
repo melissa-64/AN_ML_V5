@@ -4,7 +4,7 @@
             "key": "VirtualizationEnabled",
             "expectedValue": true,
             "fixable": false,
-            "enabled": true,
+            "enabled": false,
             "tutorialLink": ""
         },
         {
@@ -18,13 +18,13 @@
             "key": "HyperVDisabled",
             "expectedValue": true,
             "fixable": true,
-            "enabled": true
+            "enabled": false
         },
         {
             "key": "MemoryIntegrityDisabled",
             "expectedValue": false,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "DriverBlocklistDisabled",
