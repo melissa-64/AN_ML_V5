@@ -2,33 +2,33 @@
     "checks": [
         {
             "key": "VirtualizationEnabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": false,
             "tutorialLink": ""
         },
         {
             "key": "SecureBootDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": false,
             "enabled": true,
             "tutorialLink": ""
         },
         {
             "key": "HyperVDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": false
         },
         {
             "key": "MemoryIntegrityDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": true
         },
         {
             "key": "DriverBlocklistDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": true
         },
@@ -47,7 +47,7 @@
         },
         {
             "key": "RiotVanguardInactive",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": true
         }
