@@ -2,7 +2,7 @@
     "checks": [
         {
             "key": "VirtualizationEnabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": false,
             "enabled": false,
             "tutorialLink": ""
@@ -16,7 +16,7 @@
         },
         {
             "key": "HyperVDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": false
         },
@@ -34,7 +34,7 @@
         },
         {
             "key": "Windows11_24H2",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": false,
             "enabled": false,
             "tutorialLink": ""
