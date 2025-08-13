@@ -9,7 +9,7 @@
         },
         {
             "key": "SecureBootDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": false,
             "tutorialLink": ""
