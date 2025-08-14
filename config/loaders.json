@@ -1,3 +1,13 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "loader.exe",
+            "name": "Sync Temp Spoofer",
+            "categoryId": "spoofers",
+            "downloadUrl": "https://api.cloud.anewvision.fr/675189357287702528/loader.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://alienmodz.com/store/category/36-sync-temp-spoofer/"
+        }
+    ]
 }
